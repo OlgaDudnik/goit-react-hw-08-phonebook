@@ -1,0 +1,77 @@
+.Link {
+  font-weight: 700;
+  font-size: 14;
+}
+
+.ListItemApp {
+  margin-right: 20px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.ItemNav {
+  font-size: 20px;
+  margin-right: 20px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.ActiveLink {
+  /* color: white; */
+  padding: 8px;
+  color: pink;
+  border-radius: 15px;
+  font-weight: 400;
+  font-size: 14;
+  font-style: italic;
+}
+
+.Container {
+  margin-top: 150px;
+}
+
+.ContactsTitle {
+  font-style: italic;
+  margin-left: 0;
+  text-decoration: underline overline;
+}
+
+button {
+  text-align: center;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+  -wekit-box-shadow: 0px 4px 4px rgb(0 0 0 / 15%);
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 15%);
+  border-radius: 8px;
+  background-color: #000000 !important;
+  color: white !important;
+  margin-top: 10px !important;
+}
+
+label {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+form {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ContactsTitle {
+  font-style: italic;
+  margin-left: 0;
+  text-decoration: underline overline;
+}
